@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "292705944206",
+    "project_id": "multi-super-store",
+    "storage_bucket": "multi-super-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292705944206:android:56d3dee7dbaae927b2ffdf",
+        "android_client_info": {
+          "package_name": "com.multisuperadmin.protech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPAGTtBVIS3CMX_zbmeWERIDkYViEvGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292705944206:android:63db452dde1c6b82b2ffdf",
+        "android_client_info": {
+          "package_name": "com.multisuperdriver.protech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPAGTtBVIS3CMX_zbmeWERIDkYViEvGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292705944206:android:7e6238871e1ecd66b2ffdf",
+        "android_client_info": {
+          "package_name": "com.multisuperstore.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292705944206-7v2nvrf89bqsfpngt1b6vadmtfervndq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multisuperstore.provider",
+            "certificate_hash": "16e9e1273f56e6bc125f8352df1f3a8ff24efad2"
+          }
+        },
+        {
+          "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPAGTtBVIS3CMX_zbmeWERIDkYViEvGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292705944206:android:1b6872be671b4156b2ffdf",
+        "android_client_info": {
+          "package_name": "com.multisuperstore21.protech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292705944206-50lp92isdfdfaqvlqh5a8vdg5t81bjc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multisuperstore21.protech",
+            "certificate_hash": "16e9e1273f56e6bc125f8352df1f3a8ff24efad2"
+          }
+        },
+        {
+          "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPAGTtBVIS3CMX_zbmeWERIDkYViEvGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292705944206:android:819aa561c3cca23bb2ffdf",
+        "android_client_info": {
+          "package_name": "com.multisupervendor.protech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPAGTtBVIS3CMX_zbmeWERIDkYViEvGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292705944206-5bvop07eqa7rs24tsnia80h8h2t5m57j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

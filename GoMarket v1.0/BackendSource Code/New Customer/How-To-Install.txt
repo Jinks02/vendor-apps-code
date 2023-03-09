@@ -1,0 +1,11 @@
+1. Create  database and import: database.sql
+2. Upload and Unzip folder backend_code.zip to your hosting
+3. Edit file ../.env 
+change info your database
+DB_DATABASE=grocery
+DB_USERNAME=grocery
+DB_PASSWORD=123456
+
+4. Login admin
+Usr: support@tecmanic.com
+Pass: admin

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="allease vendor apps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GoMarket v1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Multi-Vendor v2.5.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

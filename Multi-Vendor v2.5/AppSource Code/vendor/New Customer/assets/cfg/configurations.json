@@ -1,0 +1,5 @@
+{
+  "base_url": "http://192.168.1.3/multisuperstore/index.php/",
+  "api_base_url": "http://192.168.1.3/multisuperstore/index.php/",
+  "base_upload": "http://192.168.1.3/multisuperstore/"
+}
